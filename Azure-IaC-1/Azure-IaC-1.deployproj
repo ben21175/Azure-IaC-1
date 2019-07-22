@@ -25,6 +25,11 @@
   <ItemGroup>
     <Content Include="azuredeploy.json" />
     <Content Include="azuredeploy.parameters.json" />
+    <None Include="main.json" />
+    <None Include="network.json" />
+    <None Include="vmss.json" />
+    <None Include="dbas.json" />
+    <None Include="appgw.json" />
     <None Include="Deployment.targets">
       <Visible>False</Visible>
     </None>
