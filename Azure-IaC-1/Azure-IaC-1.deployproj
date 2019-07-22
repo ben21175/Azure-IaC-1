@@ -25,6 +25,7 @@
   <ItemGroup>
     <Content Include="azuredeploy.json" />
     <Content Include="azuredeploy.parameters.json" />
+    <None Include="storage.json" />
     <None Include="main.json" />
     <None Include="network.json" />
     <None Include="vmss.json" />
